@@ -49,7 +49,7 @@ def gradient_text(text, colors):
 
 def banner(console):
     os.system("cls" if os.name == "nt" else "clear")
-    brand_name = "Únase a nuestro canal @max_cpm_shadow"
+    brand_name = "Únase a nuestro canal https://t.me/MALVADOTOOLCPM"
 
     text = Text(brand_name, style="bold black")
 
@@ -419,7 +419,7 @@ if __name__ == "__main__":
             )
 
             console.print(
-                "[bold yellow]===============[bold white][ CTS_MAX_ ][/bold white]===============[/bold yellow]"
+                "[bold yellow]===============[bold white][ EL MALVADO ][/bold white]===============[/bold yellow]"
             )
 
             service = IntPrompt.ask(
@@ -429,7 +429,7 @@ if __name__ == "__main__":
             )
 
             console.print(
-                "[bold yellow]===============[bold white][ CTS_MAFX_ ][/bold white]===============[/bold yellow]"
+                "[bold yellow]===============[bold white][ EL MALVADO ][/bold white]===============[/bold yellow]"
             )
 
             if service == 0:  # Exit
@@ -657,7 +657,7 @@ if __name__ == "__main__":
                         "[bold yellow] '======================================[/bold yellow]"
                     )
                     console.print(
-                        "[bold yellow] Gracias por usar nuestra herramienta, únete a nuestro canal de telegram.: @max_cpm_shadow[/bold yellow]"
+                        "[bold yellow] Gracias por usar nuestra herramienta, únete a nuestro canal de telegram.: @Jaim2s[/bold yellow]"
                     )
                 else:
                     continue
